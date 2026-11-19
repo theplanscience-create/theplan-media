@@ -1,0 +1,755 @@
+1
+00:00:00,600 --> 00:00:05,531
+Last year, American Airlines flew about 224 million passengers.
+
+2
+00:00:05,811 --> 00:00:08,878
+It brought in a record $54.6 billion.
+
+3
+00:00:09,158 --> 00:00:12,771
+And when the year was over, its net profit
+
+4
+00:00:12,771 --> 00:00:16,384
+was $111 million. That's about 50 cents per passenger.
+
+5
+00:00:16,664 --> 00:00:20,449
+But in that same year, credit card companies and
+
+6
+00:00:20,449 --> 00:00:22,972
+other partners paid American $6.2 billion.
+
+7
+00:00:23,252 --> 00:00:25,992
+That's more than 50 times its entire profit.
+
+8
+00:00:26,272 --> 00:00:28,455
+So what is an airline actually selling?
+
+9
+00:00:28,455 --> 00:00:29,703
+Let's follow the money.
+
+10
+00:00:30,453 --> 00:00:32,287
+Quick note before we start.
+
+11
+00:00:32,287 --> 00:00:35,588
+I'm an AI narrator, and the numbers in this
+
+12
+00:00:35,588 --> 00:00:38,890
+video come from the airlines' and American Express's own
+
+13
+00:00:38,890 --> 00:00:41,824
+annual reports and their filings with the U.S.
+
+14
+00:00:41,824 --> 00:00:43,292
+Securities and Exchange Commission.
+
+15
+00:00:43,292 --> 00:00:45,492
+They're all linked in the description.
+
+16
+00:00:45,772 --> 00:00:48,746
+This is a video about how the business works.
+
+17
+00:00:48,746 --> 00:00:51,719
+It's not financial advice, and it's not a credit
+
+18
+00:00:51,719 --> 00:00:52,380
+card recommendation.
+
+19
+00:00:53,130 --> 00:00:54,432
+Let's start with Delta.
+
+20
+00:00:54,712 --> 00:01:00,160
+In 2025, Delta brought in $63.4 billion, and made
+
+21
+00:01:00,160 --> 00:01:03,187
+$5.8 billion in operating profit.
+
+22
+00:01:03,467 --> 00:01:06,804
+Operating profit is what's left from running the airline,
+
+23
+00:01:06,804 --> 00:01:08,287
+before interest and taxes.
+
+24
+00:01:08,567 --> 00:01:12,401
+In the same year, American Express paid Delta $8.2
+
+25
+00:01:12,401 --> 00:01:15,809
+billion. That's up 11% from the year before.
+
+26
+00:01:16,089 --> 00:01:20,126
+So the credit card deal brought in more than
+
+27
+00:01:20,126 --> 00:01:21,920
+Delta's entire operating profit.
+
+28
+00:01:21,920 --> 00:01:23,714
+About $2.4 billion more.
+
+29
+00:01:23,994 --> 00:01:27,239
+In its annual report, Delta calls it its most
+
+30
+00:01:27,239 --> 00:01:29,763
+significant and valuable contract to sell miles.
+
+31
+00:01:30,043 --> 00:01:32,653
+And it expects that number to grow to $10
+
+32
+00:01:32,653 --> 00:01:34,393
+billion over the next few years.
+
+33
+00:01:34,673 --> 00:01:37,556
+So why would a credit card company hand an
+
+34
+00:01:37,556 --> 00:01:39,157
+airline $8 billion a year?
+
+35
+00:01:39,907 --> 00:01:41,009
+Here's how it works.
+
+36
+00:01:41,289 --> 00:01:44,487
+When you use a Delta credit card from American
+
+37
+00:01:44,487 --> 00:01:46,618
+Express, every purchase earns you SkyMiles.
+
+38
+00:01:46,898 --> 00:01:49,508
+But those miles don't come out of nowhere.
+
+39
+00:01:49,508 --> 00:01:52,443
+American Express buys them from Delta, at a price
+
+40
+00:01:52,443 --> 00:01:53,748
+set in their contract.
+
+41
+00:01:54,028 --> 00:01:55,608
+And it's not just miles.
+
+42
+00:01:55,608 --> 00:01:58,452
+The deal also pays for the perks that come
+
+43
+00:01:58,452 --> 00:02:01,296
+with the card: free checked bags, lounge access, priority
+
+44
+00:02:01,296 --> 00:02:04,140
+boarding, and the right to put Delta's name on
+
+45
+00:02:04,140 --> 00:02:04,456
+it.
+
+46
+00:02:04,736 --> 00:02:07,701
+The price of a single mile isn't public.
+
+47
+00:02:07,701 --> 00:02:09,184
+But the total is:
+
+48
+00:02:09,184 --> 00:02:10,666
+$8.2 billion last year.
+
+49
+00:02:10,946 --> 00:02:12,741
+And it keeps climbing.
+
+50
+00:02:12,741 --> 00:02:16,779
+Delta's cash sales of miles to its partners went
+
+51
+00:02:16,779 --> 00:02:20,818
+from $6.9 billion in 2023, to $7.4 billion, to
+
+52
+00:02:20,818 --> 00:02:22,612
+$8 billion in 2025.
+
+53
+00:02:22,892 --> 00:02:25,194
+For Delta, this is close to perfect money.
+
+54
+00:02:25,194 --> 00:02:27,783
+It gets paid in cash today, for a seat
+
+55
+00:02:27,783 --> 00:02:30,372
+it might give you months, or even years, from
+
+56
+00:02:30,372 --> 00:02:30,660
+now.
+
+57
+00:02:30,940 --> 00:02:33,747
+And the airline decides which seats it releases for
+
+58
+00:02:33,747 --> 00:02:36,242
+miles, and how many miles each one costs.
+
+59
+00:02:36,522 --> 00:02:40,659
+In 2025, SkyMiles members cashed in miles for about
+
+60
+00:02:40,659 --> 00:02:42,498
+35 million award tickets.
+
+61
+00:02:42,778 --> 00:02:45,897
+Award trips made up about 12% of all the
+
+62
+00:02:45,897 --> 00:02:47,284
+passenger miles Delta flew.
+
+63
+00:02:47,564 --> 00:02:50,382
+And all the miles that have been sold but
+
+64
+00:02:50,382 --> 00:02:53,201
+not used yet? Delta records them as a liability.
+
+65
+00:02:53,201 --> 00:02:55,080
+Flights it still owes its members.
+
+66
+00:02:55,360 --> 00:02:59,547
+At the end of 2025, that balance was $9.3
+
+67
+00:02:59,547 --> 00:03:00,012
+billion.
+
+68
+00:03:00,292 --> 00:03:02,719
+Think of it like a bank account, where you
+
+69
+00:03:02,719 --> 00:03:04,876
+can only withdraw your money as plane seats.
+
+70
+00:03:04,876 --> 00:03:06,494
+And the airline is the bank.
+
+71
+00:03:07,244 --> 00:03:10,325
+So American Express pays Delta $8 billion a year.
+
+72
+00:03:10,325 --> 00:03:12,380
+Where does that money come from?
+
+73
+00:03:12,660 --> 00:03:15,061
+Start with the store where you use the card.
+
+74
+00:03:15,061 --> 00:03:17,463
+Every time you pay with a credit card, the
+
+75
+00:03:17,463 --> 00:03:18,531
+store pays a fee.
+
+76
+00:03:18,811 --> 00:03:23,126
+Across all American Express cards, Amex kept about 2.24%
+
+77
+00:03:23,126 --> 00:03:26,963
+of everything spent, according to its annual report.
+
+78
+00:03:27,243 --> 00:03:30,046
+And spending on Delta cards is enormous.
+
+79
+00:03:30,046 --> 00:03:33,650
+Amex says the Delta portfolio is about 13% of
+
+80
+00:03:33,650 --> 00:03:36,052
+everything spent on its cards worldwide.
+
+81
+00:03:36,332 --> 00:03:41,147
+Amex card members spent $1.67 trillion in 2025.
+
+82
+00:03:41,147 --> 00:03:46,563
+13% of that is roughly $217 billion, on Delta
+
+83
+00:03:46,563 --> 00:03:47,767
+cards alone.
+
+84
+00:03:48,047 --> 00:03:51,740
+If those purchases paid the average fee, stores would
+
+85
+00:03:51,740 --> 00:03:54,202
+have paid Amex about $4.9 billion.
+
+86
+00:03:54,482 --> 00:03:57,505
+That's not enough to cover the $8.2 billion Amex
+
+87
+00:03:57,505 --> 00:03:58,176
+paid Delta.
+
+88
+00:03:58,456 --> 00:04:01,662
+The other big pieces come from the cardholders themselves:
+
+89
+00:04:01,662 --> 00:04:04,867
+annual fees, and interest on the balances they don't
+
+90
+00:04:04,867 --> 00:04:05,579
+pay off.
+
+91
+00:04:05,859 --> 00:04:07,740
+And here's a telling number.
+
+92
+00:04:07,740 --> 00:04:11,126
+Delta cards are 13% of the spending, but 21%
+
+93
+00:04:11,126 --> 00:04:14,136
+of all the money card members owe Amex.
+
+94
+00:04:14,416 --> 00:04:17,991
+So relative to what they spend, Delta cardholders carry
+
+95
+00:04:17,991 --> 00:04:20,771
+bigger balances than the average Amex customer.
+
+96
+00:04:21,051 --> 00:04:22,334
+Then there's everyone else.
+
+97
+00:04:22,334 --> 00:04:25,223
+Stores usually charge the same price whether you pay
+
+98
+00:04:25,223 --> 00:04:27,148
+with a card or with cash.
+
+99
+00:04:27,428 --> 00:04:31,418
+A 2010 study by economists at the Federal Reserve
+
+100
+00:04:31,418 --> 00:04:35,408
+Bank of Boston estimated that each household paying with
+
+101
+00:04:35,408 --> 00:04:39,397
+cash was effectively sending about $149 a year to
+
+102
+00:04:39,397 --> 00:04:41,170
+households paying with cards.
+
+103
+00:04:41,450 --> 00:04:44,282
+The card industry disagrees with that framing.
+
+104
+00:04:44,282 --> 00:04:47,922
+It argues that cards bring stores more customers and
+
+105
+00:04:47,922 --> 00:04:48,731
+bigger purchases.
+
+106
+00:04:49,011 --> 00:04:51,384
+Either way, the miles in your account were paid
+
+107
+00:04:51,384 --> 00:04:52,966
+for by a lot of people.
+
+108
+00:04:52,966 --> 00:04:53,758
+Not just you.
+
+109
+00:04:54,508 --> 00:04:57,607
+The clearest proof of how valuable this business is
+
+110
+00:04:57,607 --> 00:04:58,640
+came in 2020.
+
+111
+00:04:58,920 --> 00:05:01,999
+When the pandemic hit, almost nobody was flying.
+
+112
+00:05:01,999 --> 00:05:05,463
+In the first half of the year, Delta's passenger
+
+113
+00:05:05,463 --> 00:05:06,618
+revenue fell 60%.
+
+114
+00:05:06,898 --> 00:05:09,886
+But Delta told investors that its sales to American
+
+115
+00:05:09,886 --> 00:05:12,874
+Express had not fallen at the same rate as
+
+116
+00:05:12,874 --> 00:05:13,538
+the airline.
+
+117
+00:05:13,818 --> 00:05:16,197
+Its members redeemed 78% fewer miles.
+
+118
+00:05:16,197 --> 00:05:19,368
+But they kept earning them, on the ground.
+
+119
+00:05:19,648 --> 00:05:21,587
+Airlines needed cash, and fast.
+
+120
+00:05:21,587 --> 00:05:25,075
+And instead of only borrowing against their planes, they
+
+121
+00:05:25,075 --> 00:05:27,014
+borrowed against their loyalty programs.
+
+122
+00:05:27,294 --> 00:05:31,718
+United went first. It valued its MileagePlus program at
+
+123
+00:05:31,718 --> 00:05:36,142
+about $21.9 billion. Roughly 12 times what the program
+
+124
+00:05:36,142 --> 00:05:37,617
+earned in 2019.
+
+125
+00:05:37,897 --> 00:05:40,830
+In that year, the loyalty program alone had produced
+
+126
+00:05:40,830 --> 00:05:43,110
+about a quarter of United's core earnings.
+
+127
+00:05:43,390 --> 00:05:46,504
+United borrowed $6.8 billion against it.
+
+128
+00:05:46,504 --> 00:05:49,617
+Delta borrowed $9 billion against SkyMiles.
+
+129
+00:05:49,617 --> 00:05:53,249
+And American borrowed $10 billion against AAdvantage.
+
+130
+00:05:53,529 --> 00:05:55,748
+Together, that's $25.8 billion.
+
+131
+00:05:55,748 --> 00:05:59,633
+Lent not against airplanes, but against points.
+
+132
+00:05:59,913 --> 00:06:02,766
+The lenders were betting that even if people stopped
+
+133
+00:06:02,766 --> 00:06:04,352
+flying, they wouldn't stop swiping.
+
+134
+00:06:04,632 --> 00:06:08,003
+And by 2025, United had paid back every dollar
+
+135
+00:06:08,003 --> 00:06:09,876
+of its loyalty program debt.
+
+136
+00:06:10,626 --> 00:06:11,752
+And this isn't new.
+
+137
+00:06:11,752 --> 00:06:14,284
+The card company has been backing the airline for
+
+138
+00:06:14,284 --> 00:06:15,128
+a long time.
+
+139
+00:06:15,408 --> 00:06:19,258
+In 2008, during the financial crisis, American Express paid
+
+140
+00:06:19,258 --> 00:06:23,108
+Delta $1 billion in advance, for miles it would
+
+141
+00:06:23,108 --> 00:06:24,391
+hand out later.
+
+142
+00:06:24,671 --> 00:06:29,234
+It did it again from 2011 to 2014.
+
+143
+00:06:29,234 --> 00:06:31,515
+$675 million, every December.
+
+144
+00:06:31,795 --> 00:06:35,546
+By 2019, Delta said American Express was contributing more
+
+145
+00:06:35,546 --> 00:06:37,629
+than $4 billion a year.
+
+146
+00:06:37,629 --> 00:06:40,547
+Six years later, it was $8.2 billion.
+
+147
+00:06:40,547 --> 00:06:41,380
+Roughly double.
+
+148
+00:06:41,660 --> 00:06:44,231
+In practice, that works a lot like a loan.
+
+149
+00:06:44,231 --> 00:06:46,802
+Except it gets paid back in seats instead of
+
+150
+00:06:46,802 --> 00:06:47,088
+cash.
+
+151
+00:06:47,368 --> 00:06:51,263
+Today, Delta's contract with American Express runs through the
+
+152
+00:06:51,263 --> 00:06:52,562
+end of 2029.
+
+153
+00:06:52,842 --> 00:06:55,082
+And for Amex, it's huge too.
+
+154
+00:06:55,082 --> 00:06:58,442
+13% of all its card spending comes from one
+
+155
+00:06:58,442 --> 00:06:59,189
+airline's card.
+
+156
+00:06:59,939 --> 00:07:02,463
+Now every big airline wants more of this money.
+
+157
+00:07:02,743 --> 00:07:06,287
+American moved its card deal to Citi, which became
+
+158
+00:07:06,287 --> 00:07:09,830
+its only U.S. card issuer at the start of
+
+159
+00:07:09,830 --> 00:07:10,224
+2026.
+
+160
+00:07:10,504 --> 00:07:13,814
+American expects payments from its card and other partners
+
+161
+00:07:13,814 --> 00:07:17,123
+to grow about 10% a year, until they approach
+
+162
+00:07:17,123 --> 00:07:18,594
+$10 billion a year.
+
+163
+00:07:18,874 --> 00:07:22,559
+It says that should add about $1.5 billion a
+
+164
+00:07:22,559 --> 00:07:25,834
+year to its pre-tax profit, compared to 2024.
+
+165
+00:07:26,114 --> 00:07:29,521
+That expected boost alone is more than 10 times
+
+166
+00:07:29,521 --> 00:07:31,792
+American's entire net profit last year.
+
+167
+00:07:32,072 --> 00:07:34,480
+Delta is aiming for $10 billion too.
+
+168
+00:07:34,760 --> 00:07:37,576
+That's why the flight attendant pitches a card over
+
+169
+00:07:37,576 --> 00:07:40,392
+the speaker. That's why free bags, early boarding and
+
+170
+00:07:40,392 --> 00:07:42,269
+lounge access come with a card.
+
+171
+00:07:42,549 --> 00:07:44,456
+The plane is the product you see.
+
+172
+00:07:44,456 --> 00:07:46,362
+The card is the product that pays.
+
+173
+00:07:47,112 --> 00:07:49,774
+So, are airlines really credit card companies?
+
+174
+00:07:50,054 --> 00:07:52,607
+Not exactly. They still have to fly you somewhere,
+
+175
+00:07:52,607 --> 00:07:55,160
+safely and on time, or none of this works.
+
+176
+00:07:55,160 --> 00:07:57,713
+A mile is only worth something if there's a
+
+177
+00:07:57,713 --> 00:07:59,415
+seat at the end of it.
+
+178
+00:07:59,695 --> 00:08:02,596
+But some of the steadiest money in the business
+
+179
+00:08:02,596 --> 00:08:04,208
+doesn't come from the flight.
+
+180
+00:08:04,208 --> 00:08:07,110
+It comes from what people buy on the ground.
+
+181
+00:08:07,110 --> 00:08:09,044
+Groceries, gas, dinner. All earning miles.
+
+182
+00:08:09,324 --> 00:08:11,690
+Every swipe sends a few cents to an airline
+
+183
+00:08:11,690 --> 00:08:13,267
+you might not fly for months.
+
+184
+00:08:13,547 --> 00:08:15,397
+Do you have an airline credit card?
+
+185
+00:08:15,397 --> 00:08:17,247
+And do you actually use the miles?
+
+186
+00:08:17,247 --> 00:08:18,568
+Tell me in the comments.
+
+187
+00:08:18,848 --> 00:08:21,259
+And if you want to know why other things
+
+188
+00:08:21,259 --> 00:08:22,598
+cost what they cost, subscribe.
+
+189
+00:08:22,598 --> 00:08:23,670
+See you next time.
